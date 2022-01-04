@@ -1,0 +1,7 @@
+
+-----running a locust file-----
+locust -f locustfile.py
+
+-----stopping a locust file-----
+exit()
+clear
